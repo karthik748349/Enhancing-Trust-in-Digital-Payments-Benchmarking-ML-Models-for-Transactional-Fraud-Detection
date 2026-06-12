@@ -1,0 +1,225 @@
+C:\Users\hruth\source\repos\bank\bin\bank.dll.config
+C:\Users\hruth\source\repos\bank\bin\bank.dll
+C:\Users\hruth\source\repos\bank\bin\bank.pdb
+C:\Users\hruth\source\repos\bank\bin\roslyn\csc.exe
+C:\Users\hruth\source\repos\bank\bin\roslyn\csc.exe.config
+C:\Users\hruth\source\repos\bank\bin\roslyn\csc.rsp
+C:\Users\hruth\source\repos\bank\bin\roslyn\csi.exe
+C:\Users\hruth\source\repos\bank\bin\roslyn\csi.exe.config
+C:\Users\hruth\source\repos\bank\bin\roslyn\csi.rsp
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hruth\source\repos\bank\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.AppContext.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Console.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.IO.Compression.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Net.Http.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.ValueTuple.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hruth\source\repos\bank\bin\roslyn\vbc.exe
+C:\Users\hruth\source\repos\bank\bin\roslyn\vbc.exe.config
+C:\Users\hruth\source\repos\bank\bin\roslyn\vbc.rsp
+C:\Users\hruth\source\repos\bank\bin\roslyn\VBCSCompiler.exe
+C:\Users\hruth\source\repos\bank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hruth\source\repos\bank\bin\EPPlus.dll
+C:\Users\hruth\source\repos\bank\bin\EPPlus.Interfaces.dll
+C:\Users\hruth\source\repos\bank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hruth\source\repos\bank\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hruth\source\repos\bank\bin\System.Buffers.dll
+C:\Users\hruth\source\repos\bank\bin\System.ComponentModel.Annotations.dll
+C:\Users\hruth\source\repos\bank\bin\System.Memory.dll
+C:\Users\hruth\source\repos\bank\bin\System.Numerics.Vectors.dll
+C:\Users\hruth\source\repos\bank\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hruth\source\repos\bank\bin\System.Security.Cryptography.Xml.dll
+C:\Users\hruth\source\repos\bank\bin\EPPlus.xml
+C:\Users\hruth\source\repos\bank\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\hruth\source\repos\bank\bin\System.Buffers.xml
+C:\Users\hruth\source\repos\bank\bin\System.Memory.xml
+C:\Users\hruth\source\repos\bank\bin\System.Numerics.Vectors.xml
+C:\Users\hruth\source\repos\bank\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hruth\source\repos\bank\bin\System.Security.Cryptography.Xml.xml
+C:\Users\hruth\source\repos\bank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hruth\source\repos\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+C:\Users\hruth\source\repos\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\hruth\source\repos\bank\obj\Debug\bank.csproj.Up2Date
+C:\Users\hruth\source\repos\bank\obj\Debug\bank.dll
+C:\Users\hruth\source\repos\bank\obj\Debug\bank.pdb
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\bank.dll.config
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\bank.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\bank.pdb
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\csc.exe
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\csc.exe.config
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\csc.rsp
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\csi.exe
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\csi.exe.config
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\csi.rsp
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.AppContext.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Collections.Immutable.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Console.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Globalization.Calendars.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.IO.Compression.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.IO.FileSystem.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Net.Http.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Net.Sockets.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.ValueTuple.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Xml.XPath.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\vbc.exe
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\vbc.exe.config
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\vbc.rsp
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\VBCSCompiler.exe
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\roslyn\VBCSCompiler.exe.config
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\EPPlus.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\EPPlus.Interfaces.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Buffers.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.ComponentModel.Annotations.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Memory.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Numerics.Vectors.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Security.Cryptography.Xml.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\EPPlus.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Buffers.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Memory.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Numerics.Vectors.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\System.Security.Cryptography.Xml.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Files\2025 final projects and reports\bank fraud\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+D:\My Files\2025 final projects and reports\bank fraud\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+D:\My Files\2025 final projects and reports\bank fraud\bank\obj\Debug\bank.csproj.Up2Date
+D:\My Files\2025 final projects and reports\bank fraud\bank\obj\Debug\bank.dll
+D:\My Files\2025 final projects and reports\bank fraud\bank\obj\Debug\bank.pdb
+E:\project\bank\bin\bank.dll.config
+E:\project\bank\bin\bank.dll
+E:\project\bank\bin\bank.pdb
+E:\project\bank\bin\roslyn\csc.exe
+E:\project\bank\bin\roslyn\csc.exe.config
+E:\project\bank\bin\roslyn\csc.rsp
+E:\project\bank\bin\roslyn\csi.exe
+E:\project\bank\bin\roslyn\csi.exe.config
+E:\project\bank\bin\roslyn\csi.rsp
+E:\project\bank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\bank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\bank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\bank\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\bank\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\bank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\bank\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\bank\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\bank\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\bank\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\bank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\bank\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\project\bank\bin\roslyn\System.AppContext.dll
+E:\project\bank\bin\roslyn\System.Collections.Immutable.dll
+E:\project\bank\bin\roslyn\System.Console.dll
+E:\project\bank\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\project\bank\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\bank\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\bank\bin\roslyn\System.Globalization.Calendars.dll
+E:\project\bank\bin\roslyn\System.IO.Compression.dll
+E:\project\bank\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\project\bank\bin\roslyn\System.IO.FileSystem.dll
+E:\project\bank\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\bank\bin\roslyn\System.Net.Http.dll
+E:\project\bank\bin\roslyn\System.Net.Sockets.dll
+E:\project\bank\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\bank\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\bank\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\bank\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\bank\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\bank\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\bank\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\bank\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\project\bank\bin\roslyn\System.ValueTuple.dll
+E:\project\bank\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\bank\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\bank\bin\roslyn\System.Xml.XPath.dll
+E:\project\bank\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\bank\bin\roslyn\vbc.exe
+E:\project\bank\bin\roslyn\vbc.exe.config
+E:\project\bank\bin\roslyn\vbc.rsp
+E:\project\bank\bin\roslyn\VBCSCompiler.exe
+E:\project\bank\bin\roslyn\VBCSCompiler.exe.config
+E:\project\bank\bin\EPPlus.dll
+E:\project\bank\bin\EPPlus.Interfaces.dll
+E:\project\bank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\bank\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\project\bank\bin\System.Buffers.dll
+E:\project\bank\bin\System.ComponentModel.Annotations.dll
+E:\project\bank\bin\System.Memory.dll
+E:\project\bank\bin\System.Numerics.Vectors.dll
+E:\project\bank\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\bank\bin\System.Security.Cryptography.Xml.dll
+E:\project\bank\bin\EPPlus.xml
+E:\project\bank\bin\Microsoft.IO.RecyclableMemoryStream.xml
+E:\project\bank\bin\System.Buffers.xml
+E:\project\bank\bin\System.Memory.xml
+E:\project\bank\bin\System.Numerics.Vectors.xml
+E:\project\bank\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\bank\bin\System.Security.Cryptography.Xml.xml
+E:\project\bank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+E:\project\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+E:\project\bank\obj\Debug\bank.csproj.Up2Date
+E:\project\bank\obj\Debug\bank.dll
+E:\project\bank\obj\Debug\bank.pdb
