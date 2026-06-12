@@ -123,4 +123,11 @@ MCA Student | Full Stack Developer | Machine Learning Enthusiast
 
 🔗 LinkedIn: https://www.linkedin.com/in/karthik-bhat-a52b76317/
 
+Snapshots
+<img width="1280" height="669" alt="WhatsApp Image 2026-06-12 at 11 26 40 AM" src="https://github.com/user-attachments/assets/e3b5b325-2684-4833-9cb3-a6882bf1861c" />
+<img width="1280" height="614" alt="WhatsApp Image 2026-06-12 at 11 26 41 AM" src="https://github.com/user-attachments/assets/a9b607a2-855e-48c6-87aa-fa7ad425d228" />
+<img width="556" height="473" alt="WhatsApp Image 2026-06-12 at 11 26 41 AM (1)" src="https://github.com/user-attachments/assets/e79334dd-7128-4673-9076-b8e53e885057" />
+<img width="1280" height="612" alt="WhatsApp Image 2026-06-12 at 11 26 42 AM" src="https://github.com/user-attachments/assets/1f068634-4b29-4d6e-8634-ed6827932d8b" />
+
+
 
